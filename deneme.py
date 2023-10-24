@@ -1,7 +1,7 @@
 import pywhatkit
-numara = input('numarayı giriniz(ülke koduyla beraber) :')
-mesaj = input("mesajınızı giriniz :")
-saat = input('saati giriniz :')
-dakika = input("dakika giriniz:")
+numara = input('Numarayı giriniz(ülke koduyla beraber) :')
+mesaj = input("Mesajınızı giriniz :")
+saat = input('Saati giriniz :')
+dakika = input("Dakika giriniz :")
 
 pywhatkit.sendwhatmsg(numara, mesaj, saat)
