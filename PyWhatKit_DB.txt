@@ -1,0 +1,10 @@
+Date: 15/10/2023
+Time: 15:7
+Phone Number: +90 545 294 41 19
+Message: bu bir deneme mesajıdır
+--------------------
+Date: 15/10/2023
+Time: 15:19
+Phone Number: +90 545 294 41 19
+Message: bu bir deneme mesajıdır
+--------------------
